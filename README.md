@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman2696&label=Profile%20views&color=0e75b6&style=flat" alt="salman2696" /> </p>
 
-- 🔭 I’m currently working on [College Project](https://salman2696.000webhostapp.com/placesToEatInsideAMUCampus/)
+- 🔭 I’m currently working at [E&E Solutions Pvt. Ltd.](https://enggenv.com/)
 
-- 🌱 I’m currently learning **React.js Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **mohammad.salman2696@gmail.com**
 
