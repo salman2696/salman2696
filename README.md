@@ -23,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salman2696&show_icons=true&locale=en&layout=compact" alt="salman2696" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salman2696&show_icons=true&locale=en" alt="salman2696" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?salman2696=DenverCoder1)](https://git.io/streak-stats)
