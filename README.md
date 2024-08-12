@@ -23,4 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salman2696&show_icons=true&locale=en&layout=compact" alt="salman2696" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salman2696&show_icons=true&locale=en" alt="salman2696" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=salman2696&theme=transparent&exclude_days=Sun" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=salman2696&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
