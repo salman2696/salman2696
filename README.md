@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Salman</h1>
-<h3 align="center">Passionate Web Developer | Learning JavaScript, ReactJS, and NodeJS</h3>
+<h3 align="center">Passionate Web Developer | Proficient in JavaScript, ReactJS, and NodeJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman2696&label=Profile%20views&color=0e75b6&style=flat" alt="salman2696" /> </p>
 
 - 🔭 I’m currently working at [E&E Solutions Pvt. Ltd.](https://enggenv.com/)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently exploring **Next.js**
 
-- 📫 How to reach me **mohammad.salman2696@gmail.com**
+- 📫 How to reach me **mohammad.salman@enggenv.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
